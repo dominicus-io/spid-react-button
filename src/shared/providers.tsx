@@ -1,11 +1,12 @@
 import ArubaSVGUrl from '/./svgs/idp-logos/spid-idp-arubaid.svg';
+import EtnaSVGUrl from '/./svgs/idp-logos/spid-idp-etnaid.svg';
+import InfocamereSVGUrl from '/./svgs/idp-logos/spid-idp-infocamereid.svg';
 import InfocertSVGUrl from '/./svgs/idp-logos/spid-idp-infocertid.svg';
 import PosteSVGUrl from '/./svgs/idp-logos/spid-idp-posteid.svg';
 import SielteSVGUrl from '/./svgs/idp-logos/spid-idp-sielteid.svg';
 import TimSVGUrl from '/./svgs/idp-logos/spid-idp-timid.svg';
 import NamirialSVGUrl from '/./svgs/idp-logos/spid-idp-namirialid.svg';
 import RegisterItSVGUrl from '/./svgs/idp-logos/spid-idp-spiditalia.svg';
-import IntesaSVGUrl from '/./svgs/idp-logos/spid-idp-intesaid.svg';
 import LepidaSVGUrl from '/./svgs/idp-logos/spid-idp-lepidaid.svg';
 import TeamSystemSVGUrl from '/./svgs/idp-logos/spid-idp-teamsystemid.svg';
 
@@ -20,8 +21,9 @@ import type { RegisteredProviderRecord } from './types';
  */
 const images = [
   ArubaSVGUrl,
+  EtnaSVGUrl,
+  InfocamereSVGUrl,
   InfocertSVGUrl,
-  IntesaSVGUrl,
   LepidaSVGUrl,
   NamirialSVGUrl,
   PosteSVGUrl,
